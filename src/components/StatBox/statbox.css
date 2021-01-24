@@ -1,0 +1,14 @@
+.media.statbox {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0.5rem 0.75rem;
+}
+
+.media.statbox i.bi {
+    font-size: 36px;
+    margin-right: 0.75rem;
+}
+
+.media .media-body p {
+    margin-bottom: 0;
+}
